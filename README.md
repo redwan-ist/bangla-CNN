@@ -5,3 +5,7 @@
 - digit.ipynb -> TRAINING
 - recognization.ipynb -> RECOGNIZATION
 - requirements.txt ->REQUIRED LIBRARY LIST
+
+
+
+-DATASET: https://tinyurl.com/bangladataset
